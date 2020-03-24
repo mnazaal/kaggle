@@ -1,0 +1,11 @@
+# Possible data file formats
+*.zip
+*.csv
+*.json
+*.txt
+*.png
+*.jpeg
+*.jpg
+*.mp4
+*.gif
+*.sqlite
